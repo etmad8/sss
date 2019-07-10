@@ -1,0 +1,13 @@
+{
+      "server": "162.245.239.74",
+      "server_port": 23456,
+      "password": "dongtaiwang.com",
+      "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
+      "plugin_args": "",
+      "remarks": "",
+      "timeout": 5
+      "supported_protocol": "origin, verify_simple, auth_simple, auth_sha1, auth_sha1_v2, auth_sha1_v4",
+      "supported_obfs": "plain, http_simple, tls1.0_session_auth, tls1.2_ticket_auth"
+}
